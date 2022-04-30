@@ -23,7 +23,6 @@ class Stack {
 
   pop() {
     return this.stack.pop();
-    // return this.stack.splice(this.stack.length - 1)[0];
   }
 
   peek() {
